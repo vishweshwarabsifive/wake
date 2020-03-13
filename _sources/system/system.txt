@@ -1,0 +1,25 @@
+------
+system
+------
+
+.. toctree::
+
+
+incremental.wake
+----------------
+path.wake
+---------
+job.wake
+--------
+cp.wake
+-------
+gcc.wake
+--------
+environment.wake
+----------------
+sources.wake
+------------
+pkgconfig.wake
+--------------
+os.wake
+-------
